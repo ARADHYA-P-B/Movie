@@ -19,6 +19,8 @@ Create the Movie project to design the Movie and WatchList
           - MovieModal Component
           - MovieDetails Component
           Icones are the used for that project.
+  ![React+vite ](https://github.com/ARADHYA-P-B/Movie/assets/152789603/b7b80fb9-7cda-4afb-9b99-0df04a7e1767)
+
          
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
